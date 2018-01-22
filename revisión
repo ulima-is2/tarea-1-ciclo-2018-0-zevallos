@@ -1,0 +1,16 @@
+P1:1
+P2:4
+P3:2
+P4:4
+Nota:11
+
+P1 (se recomienda venir a asesoría ya que no se tiene claro lo que se debe hacer)
+La HU1 no se entiende su especificación.
+En HU2, el escenario 3 es un escenario manual que no entra en el sistema.
+P2
+GeneradorPartidos no es un concepto/entidad del dominio.
+P3 (ser recomienda venir a asesoría ya que no se tiene claro el tema)
+CU1 no está bien especificado. No es un flujo alternativo el login móvil.
+P4
+Bien las clases interfaz y controladoras, pero en muchos diagramas no utilizas clases entidad.
+Cuando utilizas clases entidad mencionas base de datos. En el momento del modelado de robustez no se debe pensar aún en base de datos.
